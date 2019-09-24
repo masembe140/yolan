@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D25F-DF7B
+
+ Directory of C:\Users\MASEMBE YOLAN\Desktop\YOLAN
+
+09/24/2019  07:16 PM    <DIR>          .
+09/24/2019  07:16 PM    <DIR>          ..
+09/24/2019  07:16 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   5,100,675,072 bytes free
